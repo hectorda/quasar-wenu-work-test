@@ -10,8 +10,8 @@ npm install
 ```
 
 ### Use enviroment file based in env.example
-```development.env
-```production.env
+```development.env #For development 
+production.env #For production
 ```
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
